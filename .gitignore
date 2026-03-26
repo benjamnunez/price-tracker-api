@@ -1,0 +1,7 @@
+config.py
+
+core/
+__pycache__/
+
+# entorno virtual
+.env
